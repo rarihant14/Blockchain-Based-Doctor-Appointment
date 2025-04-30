@@ -24,5 +24,6 @@ A secure doctor appointment booking system built using Python and Streamlit, lev
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/doctor-appointment-blockchain.git
+git clone https://github.com/rarihant14/doctor-appointment-blockchain.git
 cd doctor-appointment-blockchain
+
