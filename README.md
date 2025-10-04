@@ -1,5 +1,3 @@
-# Blockchain-Based-Doctor-Appointment
-
 # 🩺 Doctor Appointment Booking with Blockchain
 
 A secure doctor appointment booking system built using Python and Streamlit, leveraging Blockchain principles to ensure the integrity and immutability of patient records.
